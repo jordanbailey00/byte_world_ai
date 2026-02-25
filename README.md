@@ -1,3 +1,9 @@
+```text
+                  ┳┓┓┏┏┳┓┏┓  ┓ ┏┏┓┳┓┓ ┳┓
+{o)xx|==========- ┣┫┗┫ ┃ ┣   ┃┃┃┃┃┣┫┃ ┃┃ -==========|xx(o}
+                  ┻┛┗┛ ┻ ┗┛  ┗┻┛┗┛┛┗┗┛┻┛
+```
+
 # byte_world_ai
 
 `byte_world_ai` is a text-first, command-driven fantasy RPG with tactical turn-based combat, guided progression, and terminal-friendly readability features.
